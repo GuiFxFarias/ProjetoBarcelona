@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+main{
+    padding: 20px;
+    margin: 0px 10px 10px 10px;
+
+    
+    margin: auto;
+    margin-bottom: 30px;
+    min-height: 280px;
+    max-width: 850px;
+}
+
+img#partida{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+img#jogadores{
+    max-width: 720px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 100%;
+    margin-bottom: 5px;
+}
